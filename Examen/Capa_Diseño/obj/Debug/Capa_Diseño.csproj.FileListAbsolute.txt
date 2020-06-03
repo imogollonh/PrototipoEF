@@ -1,0 +1,58 @@
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe.config
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csprojAssemblyReference.cache
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Properties.Resources.resources
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CoreCompileInputs.cache
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.exe
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
+C:\Users\prueb\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Menu.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csprojAssemblyReference.cache
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Menu.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Properties.Resources.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.exe
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe.config
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Datos.dll
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\bin\Debug\Capa_Datos.pdb
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.Prueba.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe.config
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.exe
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\bin\Debug\Capa_Diseño.pdb
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\bin\Debug\Capa_Logica.dll
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\bin\Debug\Capa_Datos.dll
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\bin\Debug\Capa_Logica.pdb
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\bin\Debug\Capa_Datos.pdb
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csprojAssemblyReference.cache
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.Frm_MantenimientoClientes.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.Prueba.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Menu.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Properties.Resources.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.GenerateResource.cache
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.csproj.CopyComplete
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.exe
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.pdb
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Consultas.Frm_ConsultaCliente.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.Frm_MantenimientoVendedor.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Consultas.Frm_ConsultaVendedor.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Consultas.Frm_ConsultaProveedores.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.Frm_MantenimientoProveedores.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Consultas.Frm_ConsultaCliente.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Consultas.Frm_ConsultaProveedores.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Consultas.Frm_ConsultaVendedor.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.Frm_MantenimientoClientes.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.Frm_MantenimientoProveedores.resources
+C:\Users\ivan5\Desktop\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Mantenimientos.Frm_MantenimientoVendedor.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Procesos.Frm_estadoCuentas.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Procesos.Frm_PagoProveedores.resources
+C:\Users\ivan5\Desktop\Examen Final IS\Examen\Capa_Diseño\obj\Debug\Capa_Diseño.Procesos.Frm_PagoClientes.resources
